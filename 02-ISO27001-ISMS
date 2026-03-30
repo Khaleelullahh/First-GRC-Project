@@ -1,0 +1,43 @@
+# 🛡️ ISO 27001 ISMS – Statement of Applicability
+
+**Organisation:** FirstBank Nigeria Plc (Simulated)
+**Standard:** ISO/IEC 27001:2013
+**Date:** January 2022
+**Document Ref:** FBNPLC-ISMS-SOA-001 | Version 2.0
+
+---
+
+## 📌 Overview
+
+This project documents the Information Security Management System (ISMS) for a simulated Nigerian bank, including a full **Statement of Applicability (SoA)** covering all 114 controls across 14 domains from ISO/IEC 27001:2013 Annex A. Each control is assessed for applicability, implementation status, and justification.
+
+---
+
+## 📋 What's Covered
+
+- ISMS scope definition and boundary setting
+- Organisational exclusions with justification
+- Full Annex A SoA table (114 controls)
+- Implementation status per control (Implemented / Partial / Not Applicable)
+- ISMS objectives and KPIs for 2022
+- Document version control history
+
+---
+
+## 🔍 Key Controls Assessed
+
+| Domain | Example Controls |
+|--------|-----------------|
+| A.6 – Organisation of IS | Roles & responsibilities, segregation of duties |
+| A.9 – Access Control | RBAC, MFA, privileged access management |
+| A.12 – Operations Security | Malware controls, patch management, logging |
+| A.16 – Incident Management | CSIRT, incident response procedures |
+| A.17 – Business Continuity | BCP/DRP, DR testing |
+
+---
+
+## 📄 Document
+
+| File | Description |
+|------|-------------|
+| `ISO27001_ISMS_SoA_FirstBank_2022.docx` | Full ISMS SoA document with all Annex A controls and implementation status |
